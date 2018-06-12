@@ -4,9 +4,10 @@
 
 ## What the--?
 
-- data
-- reduce functions
+Made of two pieces:
 
+- *data*: the shared merkle tree
+- *reduce functions*: to turn trees & subtrees into useful data for applications
 
 ## Example: Track all git forks of a project
 
