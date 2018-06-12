@@ -1,13 +1,13 @@
 {
-  "name": "treehouse",
+  "name": "merkle-treehouse",
   "description": "collaborative p2p tree data structure",
   "author": "Stephen Whitmore <sww@eight.net>",
   "version": "0.0.0",
   "repository": {
-    "url": "git://github.com/noffle/treehouse.git"
+    "url": "git://github.com/noffle/merkle-treehouse.git"
   },
-  "homepage": "https://github.com/noffle/treehouse",
-  "bugs": "https://github.com/noffle/treehouse/issues",
+  "homepage": "https://github.com/noffle/merkle-treehouse",
+  "bugs": "https://github.com/noffle/merkle-treehouse/issues",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js",
