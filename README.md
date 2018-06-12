@@ -4,7 +4,11 @@
 
 ## What the--?
 
-Made of two pieces:
+Looking at github and email (two social media used for git development), I
+wonder if the social/communications components of open source software
+development could be reduced to a collaborative append-only tree data structure!
+
+I imagine it made of two pieces:
 
 - *data*: the shared merkle tree
 - *reduce functions*: to turn trees & subtrees into useful data for applications
